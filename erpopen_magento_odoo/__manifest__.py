@@ -20,5 +20,4 @@
 
     'installable': True,
     'auto_install': False,
-    'images': ['images/icon.png'],
 }
